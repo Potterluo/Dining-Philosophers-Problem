@@ -1,0 +1,8 @@
+F:\Philosopher's dining problem\Debug\Philosopher's dining problem.exe
+F:\Philosopher's dining problem\Debug\Philosopher's dining problem.pdb
+C:\Users\MACHENIKE\Desktop\201878040104杜晓龙课程设计--哲学家就餐问题\源码\Debug\Philosopher's dining problem.exe
+C:\Users\MACHENIKE\Desktop\201878040104杜晓龙课程设计--哲学家就餐问题\源码\Debug\Philosopher's dining problem.pdb
+F:\201878040104杜晓龙课程设计--哲学家就餐问题\源码\Debug\Philosopher's dining problem.exe
+F:\201878040104杜晓龙课程设计--哲学家就餐问题\源码\Debug\Philosopher's dining problem.pdb
+F:\201878040104杜晓龙课程设计--哲学家就餐问题\源工程\Debug\Philosopher's dining problem.exe
+F:\201878040104杜晓龙课程设计--哲学家就餐问题\源工程\Debug\Philosopher's dining problem.pdb

@@ -1,0 +1,5 @@
+﻿  phead_demo.cpp
+  Philosopher's dining problem.cpp
+  正在生成代码...
+F:\201878040104杜晓龙课程设计--哲学家就餐问题\源工程\philosopher.h(53): warning C4715: “Philosopher::eat”: 不是所有的控件路径都返回值
+  Philosopher's dining problem.vcxproj -> F:\201878040104杜晓龙课程设计--哲学家就餐问题\源工程\Debug\Philosopher's dining problem.exe
